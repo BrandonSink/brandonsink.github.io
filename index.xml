@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brandon Sink</title>
+    <link>https://brandonsink.com/</link>
+    <description>Recent content on Brandon Sink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://brandonsink.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://brandonsink.com/about/</link>
+      <pubDate>Tue, 10 Jan 2023 22:35:31 -0500</pubDate>
+      
+      <guid>https://brandonsink.com/about/</guid>
+      <description> whoami  Link to heading    Husband and Father Cybersecurity Professional Boilermaker Alumni GWU Master&amp;rsquo;s Student  Certifications  Link to heading      Certification Number     Computer Hacking Forensic Investigatior (CHFI) ECC9015247836   GIAC Certified Incident Handler (GCIH) 38657   GIAC Security Essentials (GSEC) 39866    </description>
+    </item>
+    
+  </channel>
+</rss>
